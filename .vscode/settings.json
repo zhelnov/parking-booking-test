@@ -1,0 +1,10 @@
+{
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.preferences.quoteStyle": "single",
+  "eslint.format.enable": true,
+}
